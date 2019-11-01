@@ -1,0 +1,16 @@
+* {
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+ul li span {
+	margin-right: 10px;
+}
+.strikeThrough {
+	text-decoration: line-through;
+}
+
+button {
+	border: 1px solid #e8e8e8;
+	background-color: transparent;
+	height: 1.8em;
+}
